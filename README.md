@@ -1,4 +1,4 @@
-# accessibility-pages-in-design-system
+# Accessibility in Design System
 A list of accessibility pages in design systems. These design systems have pages or descriptions about accessibility.
 
 | Organization                                                 | Design System                                                | Accessibility                                                |
@@ -6,7 +6,7 @@ A list of accessibility pages in design systems. These design systems have pages
 | [Firefox](https://firefox.com/)                              | [Mozilla Firefox](https://design.firefox.com/)               | https://design.firefox.com/photon/introduction/design-for-inclusion.html |
 | [GOV.UK](https://www.gov.uk/)                                | [GOV.UK Design Systems](https://design-system.service.gov.uk/) | https://www.gov.uk/service-manual/helping-people-to-use-your-service |
 | [grommet](https://github.com/grommet)                        | [grommet](https://v2.grommet.io/)                            | <quote>keyboard navigation, screen reader tags, and more. grommet provides support for W3c’s [WCAG 2.1 spec](https://www.w3.org/TR/WCAG21/) out of the box.</quote> |
-| [Co-opDigital](https://digitalblog.coop.co.uk/)              | [Co-op Design system](https://coop-design-system.herokuapp.com/) | https://coop-design-system.herokuapp.com/accessibility.html  |
+| [Co-op Digital](https://digitalblog.coop.co.uk/)              | [Co-op Design system](https://coop-design-system.herokuapp.com/) | https://coop-design-system.herokuapp.com/accessibility.html  |
 | [Shopify](https://www.shopify.com/)                          | [Polaris](https://polaris.shopify.com/)                      | https://polaris.shopify.com/foundations/accessibility        |
 | [Atlassian](https://adele.uxpin.com/atlassian-atlassian-design-guidelines) | [Atlassian Design Guidelines](https://atlassian.design/)     | https://atlassian.design/foundations/accessibility           |
 | [Salesforce](https://adele.uxpin.com/salesforce-lightning)   | [Lightning](https://www.lightningdesignsystem.com/)          | https://www.lightningdesignsystem.com/accessibility/overview |
