@@ -10,7 +10,7 @@ A list of accessibility pages in design systems. These design systems have pages
 | [Shopify](https://www.shopify.com/)                          | [Polaris](https://polaris.shopify.com/)                      | https://polaris.shopify.com/foundations/accessibility        |
 | [Atlassian](https://adele.uxpin.com/atlassian-atlassian-design-guidelines) | [Atlassian Design Guidelines](https://atlassian.design/)     | https://atlassian.design/foundations/accessibility           |
 | [Salesforce](https://adele.uxpin.com/salesforce-lightning)   | [Lightning](https://www.lightningdesignsystem.com/)          | https://www.lightningdesignsystem.com/accessibility/overview |
-| [18F](https://18f.gsa.gov/)                                  | [[U.S. Web Design System (USWDS)](https://designsystem.digital.gov/) | https://designsystem.digital.gov/documentation/developers/#accessibility |
+| [18F](https://18f.gsa.gov/)                                  | [U.S. Web Design System (USWDS)](https://designsystem.digital.gov/) | https://designsystem.digital.gov/documentation/developers/#accessibility |
 | [ACL](https://adele.uxpin.com/acl-starling)                  | [Starling](http://design.acl.com/page/Home)                  | https://design.wegalvanize.com/p/guidelines/accessibility    |
 | [Financial Times](https://adele.uxpin.com/financial-times-origami) | [Origami](http://origami.ft.com/)                            | http://origami.ft.com/docs/principles/accessibility/         |
 | [Meetup](https://adele.uxpin.com/meetup-swarm-design-system) | [Swarm Design System](https://meetup.github.io/swarm-design-system/) | https://meetup.github.io/swarm-design-system/design/usability/a11y/ |
