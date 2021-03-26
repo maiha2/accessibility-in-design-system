@@ -1,6 +1,8 @@
 # Accessibility in Design System
 A list of accessibility pages in design systems. These design systems have pages or descriptions about accessibility.
 
+Contributions from anyone are welcome!!
+
 | Organization                                                 | Design System                                                | Accessibility                                                |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Firefox](https://firefox.com/)                              | [Mozilla Firefox](https://design.firefox.com/)               | https://design.firefox.com/photon/introduction/design-for-inclusion.html |
