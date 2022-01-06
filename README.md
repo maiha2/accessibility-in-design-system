@@ -1,4 +1,4 @@
-# Accessibility in Design System
+# WAccessibility in Design System
 A list of accessibility pages in design systems. These design systems have pages or descriptions about accessibility.
 
 Contributions from anyone are welcome!!
@@ -28,8 +28,14 @@ Contributions from anyone are welcome!!
 | [ENGIE](https://adele.uxpin.com/engie-fluid)                 | [Fluid](https://www.engie.design/)                           | https://www.engie.design/fluid-design-system/brand/accessibility/ |
 | [Red Hat](https://adele.uxpin.com/red-hat-patternfly-design-system) | [Patternfly Design System](https://www.patternfly.org/)      | https://www.patternfly.org/v4/get-started/accessibility-guide/ |
 | [Buildit \| Wipro Digital](https://adele.uxpin.com/buildit-wipro-digital-gravity) | [Gravity](http://style.buildit.digital/)                     | <q> Everything about Gravity, from the UI designs and components it provides to the way in which it is run and maintained should strive to be inclusive. That means removing barriers to entry for using or contributing to Gravity itself. That also means enabling products to be accessible to the broadest possible audience.</q> http://style.buildit.digital/docs/about-gravity/principles.html |
-| [SmartHR](https://smarthr.co.jp/)                            | [SmartHR Design System](https://smarthr.design/)<br>[SmartHR UI](https://github.com/kufu/smarthr-ui/) | https://smarthr.design/products/accessibility/ |
+| [SmartHR](https://smarthr.co.jp/)                            | [SmartHR Design System](https://smarthr.design/)<br>[SmartHR UI](https://github.com/kufu/smarthr-ui/) | https://smarthr.design/products/accessibility/               |
 | [Okta](https://www.okta.com/)                                | [Odyssey Design System](https://odyssey.okta.design/)        | <q>It’s with these ideals that we’re proud to unveil our new brand design system, and as part of that introduce Odyssey, an accessibility-driven and open-sourced design system, built to reflect advances we’ve made in UI, UX, and accessibility features.</q> https://www.okta.com/blog/2021/02/okta-design-system/ |
-| [Adobe](https://www.adobe.com/)                              | [Spectrum](https://spectrum.adobe.com/)                      | https://spectrum.adobe.com/page/principles/#For-everyone |
+| [Adobe](https://www.adobe.com/)                              | [Spectrum](https://spectrum.adobe.com/)                      | https://spectrum.adobe.com/page/principles/#For-everyone     |
 | [IBM](https://www.ibm.com/)                                  | [Carbon Design System](https://www.carbondesignsystem.com/)  | https://www.carbondesignsystem.com/guidelines/accessibility/overview/ |
 | [GitHub](https://github.com/)                                | [Primer](https://primer.style/)                              | https://primer.style/design/accessibility/accessibility-at-github |
+| [Government of Canada](https://www.canada.ca/en.html)        | [Aurora](https://design.gccollab.ca/)                        | https://design.gccollab.ca/                                  |
+| [Westpac](https://www.westpac.com.au/)                       | [GEL](https://gel.westpacgroup.com.au/)                      | https://gel.westpacgroup.com.au/principles/accessibility/    |
+| [Workday](https://www.workday.com/)                          | [Workday Canvas Design System](https://design.workday.com/)  | https://design.workday.com/guidelines/accessibility/overview |
+| [Infor](https://www.infor.com/)                              | [Infor Design System](https://design.infor.com/)             | https://design.infor.com/enablement/accessibility            |
+| [Instructure](https://www.instructure.com/en-au)             | [Instructure UI](https://instructure.design/)                | https://instructure.design/                                  |
+
