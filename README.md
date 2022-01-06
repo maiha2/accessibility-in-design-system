@@ -35,7 +35,6 @@ Contributions from anyone are welcome!!
 | [GitHub](https://github.com/)                                | [Primer](https://primer.style/)                              | https://primer.style/design/accessibility/accessibility-at-github |
 | [Government of Canada](https://www.canada.ca/en.html)        | [Aurora](https://design.gccollab.ca/)                        | https://design.gccollab.ca/                                  |
 | [Westpac](https://www.westpac.com.au/)                       | [GEL](https://gel.westpacgroup.com.au/)                      | https://gel.westpacgroup.com.au/principles/accessibility/    |
-| [Workday](https://www.workday.com/)                          | [Workday Canvas Design System](https://design.workday.com/)  | https://design.workday.com/guidelines/accessibility/overview |
 | [Infor](https://www.infor.com/)                              | [Infor Design System](https://design.infor.com/)             | https://design.infor.com/enablement/accessibility            |
 | [Instructure](https://www.instructure.com/en-au)             | [Instructure UI](https://instructure.design/)                | https://instructure.design/                                  |
 
