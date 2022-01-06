@@ -1,4 +1,4 @@
-# WAccessibility in Design System
+# Web Accessibility in Design System
 A list of accessibility pages in design systems. These design systems have pages or descriptions about accessibility.
 
 Contributions from anyone are welcome!!
